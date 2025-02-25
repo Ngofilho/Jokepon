@@ -3,9 +3,11 @@
 ![Pedra, Papel e Tesoura](https://github.com/Ngofilho/Jokepon/blob/assets/jokepon.jpg?raw=true)
 
 ## Como utilizar
-Navegar até pasta contendo o executável `Jokepon.exe` e executar.
-Selecionar entre as opções *1 - Pedra*, *2 - Papel* ou *3 - Tesoura* ou *4 - Sair*.
-O computador irá selecionar aleatoriamente entre valores 1 a 3.
+- Navegar até pasta contendo o executável `Jokepon.exe` e executar.  
+- Selecionar entre as opções *1 - Pedra*, *2 - Papel* ou *3 - Tesoura* ou *4 - Sair*.  
+- O computador irá selecionar aleatoriamente entre valores 1 a 3.  
+- A aplicação irá validar quem ganhou ou se deu empate.  
+- Para finalizar, selecionar a opção 4.  
 
 ## Regra de negócio
 O código abaixo, embora não atenda o clean code com relação a quantidade de linhas dentro de um método, ele mantém simples a implementação para validar o valor escolhido pelo jogador e comparar com o valor gerado aleatoriamente pela máquina.
